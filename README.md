@@ -6,7 +6,6 @@ This project demonstrates a complete data engineering pipeline using various Azu
 
 ## Project Architecture
 
-![image](https://github.com/MithunDataPro/Tokyo-Olympic-Azure-Data-Engineering-Project/assets/131516799/89cb43dc-eeb0-45a1-9ef7-f08953a9e1eb)
 
 
 ## Data Set
@@ -75,9 +74,6 @@ SELECT
 FROM 
     a;
 ```
-
-## Sample Chart in Azure Synapse Analytics
-- [SQL script 1.png](https://github.com/MithunDataPro/Tokyo-Olympic-Azure-Data-Engineering-Project/blob/main/SQL%20script%201.png)
 
 # Conclusion
 This project showcases a comprehensive data engineering pipeline using Azure services. From data ingestion to transformation and visualization, each step demonstrates the power and flexibility of Azure for handling complex data workflows.
